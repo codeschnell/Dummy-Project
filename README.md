@@ -2,5 +2,5 @@
 <br>
 This is a dummy code to check successfull git installation
 <br>
-Author - Kareena Shamshuddin Mulla
+Author - Kareena Mulla
 
